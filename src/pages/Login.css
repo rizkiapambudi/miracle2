@@ -1,0 +1,95 @@
+.wrapper{
+  min-height: 100vh;
+  background-color: rgb(245, 245, 245);
+}
+
+.ant-checkbox-checked .ant-checkbox-inner {
+  background-color: #FF9700;
+  border-color: #FF9700;
+}
+.ant-checkbox-input:hover{
+  border-color: #FF9700;  
+}
+
+.ant-checkbox-wrapper:hover .ant-checkbox-inner, 
+.ant-checkbox:hover .ant-checkbox-inner, 
+.ant-checkbox-input:focus + .ant-checkbox-inner{
+  border-color: #FF9700;
+}
+
+.ant-checkbox + span{
+  color: #203152
+}
+
+.ant-input:hover, .ant-input:focus{
+  border-color: #FF9700
+}
+
+ant-checkbox + span{
+  color: #203152
+}
+.login-form-wrapper{
+  /* height: 100%; */
+}
+
+.login-cover{
+
+}
+
+.login-form-container {
+  min-height: 100vh;
+  background-color: #fff;
+  padding:90px 90px;
+  -webkit-box-shadow: 1px 1px 5px 0px rgba(138,138,138,1);
+  -moz-box-shadow: 1px 1px 5px 0px rgba(138,138,138,1);
+  box-shadow: 1px 1px 5px 0px rgba(138,138,138,1);
+}
+.login-form {
+  /* padding:10px; */
+  margin:40px 0;
+}
+.login-form-forgot {
+  float: right;
+  color: #203152;
+  text-decoration: underline
+}
+.login-form-button, 
+.login-form-button:focus {
+  /* width: 100%; */
+  background-color: #FF9700;
+  border-color: #FF9700; 
+}
+
+.login-form-button:hover{
+  background-color: #fa9f17;
+  border-color: #fa9f17; 
+}
+
+@media (max-width:700px){
+  .wrapper{
+    padding:50px 10px;
+  }
+
+  .login-form-container {
+    padding:50px 20px;
+  }
+}
+
+p.text-about{
+  font-size: 16px;
+}
+.text-head{
+  font-weight: bold;
+}
+.text-poin{
+  font-size: 16px;
+  margin-bottom: .3rem;
+}
+
+.logo-powered{
+  text-align: center;
+  bottom:0;
+  position: absolute;
+  left: 50%;
+  margin-left: -55px
+}
