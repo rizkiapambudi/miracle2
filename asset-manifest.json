@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/miracle2/static/css/main.29b9f542.css",
+    "main.js": "/miracle2/static/js/main.d29eb7c6.js",
+    "static/js/787.4ffb59ae.chunk.js": "/miracle2/static/js/787.4ffb59ae.chunk.js",
+    "index.html": "/miracle2/index.html",
+    "main.29b9f542.css.map": "/miracle2/static/css/main.29b9f542.css.map",
+    "main.d29eb7c6.js.map": "/miracle2/static/js/main.d29eb7c6.js.map",
+    "787.4ffb59ae.chunk.js.map": "/miracle2/static/js/787.4ffb59ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29b9f542.css",
+    "static/js/main.d29eb7c6.js"
+  ]
+}
